@@ -14,13 +14,7 @@ Inspirado nisso, o **"Fys o Meu Melhor"** é um assistente de IA configurado par
 
 ---
 
-## 🛠️ Como Testar o Agente
-
-O agente foi construído utilizando Engenharia de Prompt e está hospedado no Hugging Face Assistants. Você pode interagir com ele e desabafar sobre o seu dia no link abaixo:
-
-👉 **[CLIQUE AQUI PARA TESTAR O AGENTE](INSIRA_O_LINK_DO_SEU_ASSISTENTE_AQUI)**
-
----
+## Prompt e testes do Agente
 
 ## 🧠 Engenharia de Prompt (System Prompt)
 
